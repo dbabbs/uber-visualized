@@ -1,4 +1,5 @@
-# uber-visualized
+# Uber Visualized
 
-Visualization of my uber trips.
+![uber-visualized](open-graph.png)
 
+Visualization of my Uber trips.
